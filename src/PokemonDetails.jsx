@@ -12,7 +12,7 @@ function PokemonDetails() {
       <h1>Pokemon Details</h1>
       <p><strong>Pokemon ID:</strong> {id}</p>
       <p>Placeholder for additional information...</p>
-      <img src="https://via.placeholder.com/300" alt={`Pokemon ${id}`} />
+      <img src="https://ntvb.tmsimg.com/assets/assets/57282_v9_bc.jpg?w=360&h=480" alt={`Pokemon ${id}`} />
     </div>
   );
 }

@@ -6,7 +6,7 @@ import PokemonDetails from './PokemonDetails';
 import './App.css';
 
 function App() {
-  const placeholderCards = Array.from({ length: 20 });
+  //const placeholderCards = Array.from({ length: 20 });
 
   return (
     <Router>
@@ -25,7 +25,7 @@ function MainPage() {
     navigate(`/pokemon/${index + 1}`);
   };
 
-  const placeholderCards = Array.from({ length: 20 });
+  const placeholderCards = Array.from({ length: 200 });
 
   return (
     <div>

@@ -1,7 +1,7 @@
 /* App.css */
 body {
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(to bottom, #ffecb3, #ffab91); /* Gradient background */
+    background: linear-gradient(to bottom, #06ffda, #05b4c4); /* Gradient background */
     margin: 0;
     padding: 20px;
     display: flex;
@@ -45,8 +45,8 @@ body {
   }
   
   .pokemon-card {
-    background-color: #ffcc80; /* Light orange background */
-    border: 2px solid #ff7043; /* Bright orange border */
+    background-color: #e1abd3; /* Light orange background */
+    border: 2px solid #000000; /* Bright orange border */
     border-radius: 12px;
     padding: 20px;
     text-align: center;
